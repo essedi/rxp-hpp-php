@@ -1,5 +1,5 @@
 {
-    "name": "essedi/rxp-hpp-php",
+    "name": "Essedi/rxp-hpp-php",
     "type": "symfony-bundle",
     "description": "SDK to send requests and parse responses from Realex Payments using HPP",
     "keywords": [
